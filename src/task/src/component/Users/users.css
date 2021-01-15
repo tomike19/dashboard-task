@@ -1,0 +1,12 @@
+.filter{
+  background-color: white;
+  width: 300px;
+}
+  
+.all-users h4{
+  float: left;
+}
+
+.all-users p {
+  float: left;
+}

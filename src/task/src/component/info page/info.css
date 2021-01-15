@@ -1,0 +1,11 @@
+.main-body{
+  background-color: #f7f7ff;
+  width: 50vw;
+  height: 120vh;
+  margin: 20px;
+  margin-left: 50px;
+  padding: 50px;
+  border-radius: 15px;
+  font-family: monospace;
+
+}

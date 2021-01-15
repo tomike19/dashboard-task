@@ -1,0 +1,112 @@
+body{
+  background-color: #262a41;
+  overflow-x: hidden;
+}
+
+.hello{
+  margin-top: 140px;
+  color: white;
+  margin-left: 100px;
+}
+.letters{
+  margin-top: 20px;
+  margin-left: 80px;
+ 
+  color: white;
+
+}
+
+.btn{
+  width: 350px;
+  border-radius: 20px;
+  margin-top: 30px;
+  height: 50px;
+  background-color:#3c3f54 ;
+  margin-left: 100px;
+  
+}
+
+.search{
+  margin-right: 200px;
+
+}
+
+
+.icon1{
+  position: relative;
+  bottom: 40px;
+}
+
+.btn1{
+  background-color:#f935a9 !important;
+  max-width: 80px !important;
+  height: 55px !important;
+  border: none;
+  position: relative;
+  right: 100px;
+ 
+ 
+}
+
+.male{
+  position: relative;
+  right: 30px !important;
+  color: white !important;
+  margin-top: 10px;
+}
+
+
+.users{
+  position: relative;
+  right: 2px !important;
+  color: white !important;
+  margin-top: 15px;
+}
+
+.female{
+  position: relative;
+  right: 90px !important;
+  color: white !important;
+  margin-top: 5px;
+}
+h6{
+  color: #ffffff;
+  margin-left: 90px;
+  margin-top: 50px;
+}
+.btn2{
+  max-width: 70px;
+  height: 60px !important;
+ position: relative;
+ right: 150px;
+ background-color:#30bbb5 !important;
+ border: none;
+}
+
+.use1{
+  font-size: 30px;
+}
+.btn3{
+  max-width: 80px;
+  height: 70px !important;
+  position: relative;
+  right: 200px;
+  background-color:#7466c1 !important;
+  border: none;
+}
+.icon{
+  margin-top: 30px;
+  margin-left: 70px;
+  padding: 30px;
+}
+
+h6{
+  color: white;
+  position: relative;
+  right: 170px;
+}
+
+
+
+
+

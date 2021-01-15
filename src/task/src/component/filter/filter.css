@@ -1,0 +1,26 @@
+.form-control{
+  width: 50vh !important;
+  height: 50px;
+  border-radius: 20px;
+ position: relative;
+ right: 30px;
+ background-color:#e3e3ec ;
+}
+
+
+.toggle{
+  width: 200px !important;
+  position: relative;
+  left: 200px;
+  bottom: 30px!important;
+  background-color:#e3e3ec !important ;
+}
+
+
+.toggle1{
+  position: relative;
+  left: 220px;
+  top: 10px;
+  color:#30BBB5;
+
+}
